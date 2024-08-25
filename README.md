@@ -3,6 +3,7 @@
 ** To create a REST_API**
 Get
 Put
-Push
+Post
 Delete
+
 
